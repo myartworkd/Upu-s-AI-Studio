@@ -1,0 +1,5 @@
+{
+  "name": "Upu's AI Studio",
+  "description": "An AI-powered image editing tool that uses generative fill to add details, change styles, and transform your photos while preserving the main subject. Powered by Gemini.",
+  "requestFramePermissions": []
+}
